@@ -1,0 +1,8 @@
+.vscode/
+*.olean
+/_target
+/leanpkg.path
+/lake-packages
+/build
+/.lake/
+/.cache
